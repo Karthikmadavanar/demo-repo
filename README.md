@@ -1,5 +1,0 @@
-# DEMO
-
-
-
-Some description
